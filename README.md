@@ -4,17 +4,29 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFAA&width=600&lines=Hi,+I'm+Fahad!;Frontend+Developer;Learning+Next.js+and+React" alt="Typing SVG"/>
 </p>
 # 👋 Hi, I'm Fahad
-### 💻 Frontend Developer | Learning Full Stack Web Development
+### 💻 Frontend Developer | Future Full Stack Developer 🚀
+
+<img width="785" height="451" alt="image" src="https://github.com/user-attachments/assets/cf12292c-898e-4130-8df8-353d1fd99e0d" />
+
 
 ---
 
 ## 🧑‍💻 About Me
+<p  align="left">
 I am a passionate frontend developer currently learning modern web technologies.  
 
 - 🌱 Currently learning: **React & Next.js**  
 - 🔭 Working on real-world projects to improve my skills  
 - ⚡ Exploring modern frameworks and best practices  
-- 🎯 Goal: Become a professional Full Stack Web Developer  
+- 🎯 Goal: Become a professional Full Stack Web Developer
+</p>
+<p align="center" >
+<img width="800" height="474" alt="image" src="https://github.com/user-attachments/assets/cd84a291-0f63-4802-aabd-9e972368efb2" />
+</p>
+<p align="right">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFAA&width=600&lines=Hi,+I'm+Fahad!;Frontend+Developer;Learning+Next.js+and+React" alt="Typing SVG"/>
+</p>
+
 
 ---
 
