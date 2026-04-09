@@ -1,6 +1,8 @@
 <!-- Banner -->
 <img width="1024" height="434" alt="image" src="https://github.com/user-attachments/assets/d5622d8b-a22c-42fa-b86c-cd7dcc3d51e3" />
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFAA&width=600&lines=Hi,+I'm+Fahad!;Frontend+Developer;Learning+Next.js+and+React" alt="Typing SVG"/>
+</p>
 # 👋 Hi, I'm Fahad
 ### 💻 Frontend Developer | Learning Full Stack Web Development
 
